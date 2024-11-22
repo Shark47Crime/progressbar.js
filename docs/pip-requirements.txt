@@ -1,8 +1,8 @@
 backports-abc==0.4
 backports.ssl-match-hostname==3.5.0.1
-certifi==2015.11.20.1
+certifi==2024.7.4
 click==6.2
-Jinja2==2.8
+Jinja2==3.1.4
 livereload==2.4.1
 Markdown==2.6.5
 MarkupSafe==0.23
@@ -11,8 +11,8 @@ mkdocs==0.15.3
 mkdocs-bootstrap==0.1.1
 mkdocs-bootswatch==0.2.0
 pymdown-extensions==1.0.1
-PyYAML==3.11
+PyYAML==5.4
 singledispatch==3.4.0.3
 six==1.10.0
-tornado==4.3
-wheel==0.24.0
+tornado==6.4.2
+wheel==0.38.1
